@@ -69,8 +69,4 @@ Prima di caricare il codice, è necessario installare le seguenti librerie nell'
 ## Debug e Monitor Serial
 Durante il caricamento e l'esecuzione del codice, è possibile utilizzare il **Monitor Seriale** nell'IDE Arduino per vedere messaggi di debug e verificare il funzionamento corretto.
 
-## Note
-- **Memoria EEPROM**: La EEPROM ha un numero limitato di cicli di scrittura (circa 100.000). Non salvare il punteggio massimo troppo frequentemente.
-- **Ottimizzazione del Gioco**: Questo codice è ottimizzato per funzionare su un ESP8266, ma può essere adattato ad altre piattaforme come Arduino con le modifiche appropriate alle librerie e alle funzioni di gestione della memoria.
-
 Divertiti a giocare con il tuo progetto Flappy Bird!
